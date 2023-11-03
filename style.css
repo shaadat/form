@@ -1,0 +1,78 @@
+.heading{
+    color: red;
+    text-align: center;
+}
+.don img{
+    height: 150px;
+    width: auto;
+    padding-left: 100px;
+}
+.view img{
+    height:100px;
+    width: auto;
+    padding-right: 100px;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    /* border:1px solid blue; */
+}
+.form{
+    background-color: rgb(67, 7, 116);
+    color: white;
+    /* border: 10px solid rgb(67,7,116); */
+    padding-bottom: 2px;
+    width: auto;
+    text-align: center;
+}
+.username{
+    padding-top: 20px;
+    text-align: center;
+}
+.pass{
+    text-align: center;
+    padding-top: 20px;
+}
+.opinion{
+    text-align: center;
+    padding-top: 20px;
+}
+.log{
+    padding-top:20px;
+    padding-left: 200px;
+    /* background-color:rgb(67,7,116); */
+    padding-bottom: 30px;
+    text-align: center;
+}
+.log button{
+    background-color: rgb(67, 7, 116);
+    color: #fff;
+    width: 80px;
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+}
+.opinion{
+    padding-right: 100px;
+}
+.inside{
+    border:1px solid rgb(224, 223, 226);
+    margin: 100px;
+     /* border:1px solid blue; */
+
+}
+.everything{
+    border:1px solid rgba(58, 58, 59, 0.11);
+    text-align: center;
+    margin: 90px;
+    
+}
+.cover{
+    border:2px rgba(48, 44, 44, 0.171) solid;
+    margin: 100px;
+}
+.colo{
+    background-color: rgb(67, 7, 116);
+    margin: 30px;
+}
